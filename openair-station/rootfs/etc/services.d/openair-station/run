@@ -1,0 +1,5 @@
+#!/usr/bin/with-contenv bashio
+
+bashio::log.info 'Start openair-station'
+
+exec /usr/bin/openair-station $(bashio::config 'extra_options')
