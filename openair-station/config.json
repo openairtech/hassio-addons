@@ -1,6 +1,6 @@
 {
   "name": "openair-station",
-  "version": "1.9",
+  "version": "1.9.1",
   "slug": "openair-station",
   "description": "Data relay station for OpenAir air quality map project",
   "url": "https://github.com/openairtech/station",
